@@ -10,12 +10,6 @@ I also have experience in **Back-end** technologies like Node.js and Nest.js, ma
 
 </div>
 
-<div align="center">
-   
-   ![hamilgdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamilgdev&show_icons=true&locale=en&theme=transparent&title_color=537895&icon_color=799CB7&text_color=39536B)
-   
-</div>
-
 ---
 
 <div align="center">
